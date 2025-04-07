@@ -1,4 +1,7 @@
 |-- .env.example
+|-- .github
+    |-- workflows
+        |-- ci.yml
 |-- .gitignore
 |-- bun.lockb
 |-- components.json
