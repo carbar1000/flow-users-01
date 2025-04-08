@@ -84,7 +84,7 @@ const Dashboard = () => {
           />
         </div>
 
-        <div className="flex justify-between items-center mb-6">
+        <div className="flex bg-yellow justify-between items-center mb-6">
           <h2 className="text-xl font-bold">Atribuição de Respostas</h2>
           <ProcessResponsesButton onSuccess={fetchData} />
         </div>
